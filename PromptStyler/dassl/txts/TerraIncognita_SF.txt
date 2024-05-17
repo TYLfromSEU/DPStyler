@@ -1,0 +1,10 @@
+bird
+bobcat
+cat
+coyote
+dog
+empty
+opossum
+rabbit
+raccoon
+squirrel
