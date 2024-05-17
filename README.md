@@ -39,3 +39,7 @@ Here are three text templates used in this paper:
 cd scripts
 sh run_clip_pacs_test.sh
 ```
+
+## Model Weights
+todo
+
