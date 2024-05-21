@@ -41,5 +41,5 @@ sh run_clip_pacs_test.sh
 ```
 
 ## Model Weights
-Model weights can be downloaded at https://www.alipan.com/s/J4u9ewzNy9e .
+Model weights can be downloaded at https://www.alipan.com/s/PADXc4xgiD4 .
 
