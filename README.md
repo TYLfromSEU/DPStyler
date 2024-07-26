@@ -1,4 +1,4 @@
-# DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization | [arXiv](https://arxiv.org/abs/2403.16697#)
+# DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization
 ![method](./images/method.png)
 
 ## Datasets
